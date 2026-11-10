@@ -1,0 +1,6 @@
+{
+  "name": "Healthcare EDI Academy - Provider Business Flow Studio",
+  "description": "Interactive cinematic step-by-step video training and AI video agent creation studio for USA Healthcare Provider Business Flow (EDI 837, 835, 820, 270/271, SNIP levels) with character animations and Google Flow prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
